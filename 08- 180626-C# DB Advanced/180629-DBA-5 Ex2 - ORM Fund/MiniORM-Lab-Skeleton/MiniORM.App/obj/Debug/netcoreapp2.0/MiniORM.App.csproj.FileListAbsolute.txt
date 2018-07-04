@@ -1,0 +1,28 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180629-DBA-5 Ex2 - ORM Fund\MiniORM-Lab-Skeleton\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.deps.json
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180629-DBA-5 Ex2 - ORM Fund\MiniORM-Lab-Skeleton\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.runtimeconfig.json
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180629-DBA-5 Ex2 - ORM Fund\MiniORM-Lab-Skeleton\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.runtimeconfig.dev.json
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180629-DBA-5 Ex2 - ORM Fund\MiniORM-Lab-Skeleton\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.dll
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180629-DBA-5 Ex2 - ORM Fund\MiniORM-Lab-Skeleton\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180629-DBA-5 Ex2 - ORM Fund\MiniORM-Lab-Skeleton\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.dll
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180629-DBA-5 Ex2 - ORM Fund\MiniORM-Lab-Skeleton\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180629-DBA-5 Ex2 - ORM Fund\MiniORM-Lab-Skeleton\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csprojAssemblyReference.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180629-DBA-5 Ex2 - ORM Fund\MiniORM-Lab-Skeleton\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csproj.CoreCompileInputs.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180629-DBA-5 Ex2 - ORM Fund\MiniORM-Lab-Skeleton\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.AssemblyInfoInputs.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180629-DBA-5 Ex2 - ORM Fund\MiniORM-Lab-Skeleton\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.AssemblyInfo.cs
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180629-DBA-5 Ex2 - ORM Fund\MiniORM-Lab-Skeleton\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csproj.CopyComplete
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180629-DBA-5 Ex2 - ORM Fund\MiniORM-Lab-Skeleton\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.dll
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180629-DBA-5 Ex2 - ORM Fund\MiniORM-Lab-Skeleton\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.pdb
+D:\DV\03-Razni\00-VS-P\MiniORM-Lab-Skeleton\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.deps.json
+D:\DV\03-Razni\00-VS-P\MiniORM-Lab-Skeleton\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.runtimeconfig.json
+D:\DV\03-Razni\00-VS-P\MiniORM-Lab-Skeleton\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.runtimeconfig.dev.json
+D:\DV\03-Razni\00-VS-P\MiniORM-Lab-Skeleton\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.dll
+D:\DV\03-Razni\00-VS-P\MiniORM-Lab-Skeleton\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.App.pdb
+D:\DV\03-Razni\00-VS-P\MiniORM-Lab-Skeleton\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.dll
+D:\DV\03-Razni\00-VS-P\MiniORM-Lab-Skeleton\MiniORM.App\bin\Debug\netcoreapp2.0\MiniORM.pdb
+D:\DV\03-Razni\00-VS-P\MiniORM-Lab-Skeleton\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csprojResolveAssemblyReference.cache
+D:\DV\03-Razni\00-VS-P\MiniORM-Lab-Skeleton\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csproj.CoreCompileInputs.cache
+D:\DV\03-Razni\00-VS-P\MiniORM-Lab-Skeleton\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.AssemblyInfoInputs.cache
+D:\DV\03-Razni\00-VS-P\MiniORM-Lab-Skeleton\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.AssemblyInfo.cs
+D:\DV\03-Razni\00-VS-P\MiniORM-Lab-Skeleton\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.csproj.CopyComplete
+D:\DV\03-Razni\00-VS-P\MiniORM-Lab-Skeleton\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.dll
+D:\DV\03-Razni\00-VS-P\MiniORM-Lab-Skeleton\MiniORM.App\obj\Debug\netcoreapp2.0\MiniORM.App.pdb
