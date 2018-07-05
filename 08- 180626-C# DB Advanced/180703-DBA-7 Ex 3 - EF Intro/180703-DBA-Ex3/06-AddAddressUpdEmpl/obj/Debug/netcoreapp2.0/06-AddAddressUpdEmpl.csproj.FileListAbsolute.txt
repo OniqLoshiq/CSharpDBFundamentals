@@ -1,0 +1,14 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\06-AddAddressUpdEmpl\bin\Debug\netcoreapp2.0\06-AddAddressUpdEmpl.deps.json
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\06-AddAddressUpdEmpl\bin\Debug\netcoreapp2.0\06-AddAddressUpdEmpl.runtimeconfig.json
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\06-AddAddressUpdEmpl\bin\Debug\netcoreapp2.0\06-AddAddressUpdEmpl.runtimeconfig.dev.json
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\06-AddAddressUpdEmpl\bin\Debug\netcoreapp2.0\06-AddAddressUpdEmpl.dll
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\06-AddAddressUpdEmpl\bin\Debug\netcoreapp2.0\06-AddAddressUpdEmpl.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\06-AddAddressUpdEmpl\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\06-AddAddressUpdEmpl\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\06-AddAddressUpdEmpl\obj\Debug\netcoreapp2.0\06-AddAddressUpdEmpl.csprojAssemblyReference.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\06-AddAddressUpdEmpl\obj\Debug\netcoreapp2.0\06-AddAddressUpdEmpl.csproj.CoreCompileInputs.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\06-AddAddressUpdEmpl\obj\Debug\netcoreapp2.0\06-AddAddressUpdEmpl.AssemblyInfoInputs.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\06-AddAddressUpdEmpl\obj\Debug\netcoreapp2.0\06-AddAddressUpdEmpl.AssemblyInfo.cs
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\06-AddAddressUpdEmpl\obj\Debug\netcoreapp2.0\06-AddAddressUpdEmpl.csproj.CopyComplete
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\06-AddAddressUpdEmpl\obj\Debug\netcoreapp2.0\06-AddAddressUpdEmpl.dll
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\06-AddAddressUpdEmpl\obj\Debug\netcoreapp2.0\06-AddAddressUpdEmpl.pdb

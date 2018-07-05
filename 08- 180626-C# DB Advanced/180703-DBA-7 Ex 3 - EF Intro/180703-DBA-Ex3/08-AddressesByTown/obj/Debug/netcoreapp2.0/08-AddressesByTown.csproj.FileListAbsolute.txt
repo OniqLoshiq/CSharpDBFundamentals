@@ -1,0 +1,14 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\08-AddressesByTown\bin\Debug\netcoreapp2.0\08-AddressesByTown.deps.json
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\08-AddressesByTown\bin\Debug\netcoreapp2.0\08-AddressesByTown.runtimeconfig.json
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\08-AddressesByTown\bin\Debug\netcoreapp2.0\08-AddressesByTown.runtimeconfig.dev.json
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\08-AddressesByTown\bin\Debug\netcoreapp2.0\08-AddressesByTown.dll
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\08-AddressesByTown\bin\Debug\netcoreapp2.0\08-AddressesByTown.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\08-AddressesByTown\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\08-AddressesByTown\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\08-AddressesByTown\obj\Debug\netcoreapp2.0\08-AddressesByTown.csprojAssemblyReference.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\08-AddressesByTown\obj\Debug\netcoreapp2.0\08-AddressesByTown.csproj.CoreCompileInputs.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\08-AddressesByTown\obj\Debug\netcoreapp2.0\08-AddressesByTown.AssemblyInfoInputs.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\08-AddressesByTown\obj\Debug\netcoreapp2.0\08-AddressesByTown.AssemblyInfo.cs
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\08-AddressesByTown\obj\Debug\netcoreapp2.0\08-AddressesByTown.csproj.CopyComplete
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\08-AddressesByTown\obj\Debug\netcoreapp2.0\08-AddressesByTown.dll
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\08-AddressesByTown\obj\Debug\netcoreapp2.0\08-AddressesByTown.pdb

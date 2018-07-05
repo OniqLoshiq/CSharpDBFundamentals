@@ -1,0 +1,14 @@
+D:\DV\03-Razni\00-VS-P\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\13-FindEmployees\bin\Debug\netcoreapp2.0\13-FindEmployees.deps.json
+D:\DV\03-Razni\00-VS-P\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\13-FindEmployees\bin\Debug\netcoreapp2.0\13-FindEmployees.runtimeconfig.json
+D:\DV\03-Razni\00-VS-P\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\13-FindEmployees\bin\Debug\netcoreapp2.0\13-FindEmployees.runtimeconfig.dev.json
+D:\DV\03-Razni\00-VS-P\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\13-FindEmployees\bin\Debug\netcoreapp2.0\13-FindEmployees.dll
+D:\DV\03-Razni\00-VS-P\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\13-FindEmployees\bin\Debug\netcoreapp2.0\13-FindEmployees.pdb
+D:\DV\03-Razni\00-VS-P\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\13-FindEmployees\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+D:\DV\03-Razni\00-VS-P\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\13-FindEmployees\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+D:\DV\03-Razni\00-VS-P\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\13-FindEmployees\obj\Debug\netcoreapp2.0\13-FindEmployees.csprojAssemblyReference.cache
+D:\DV\03-Razni\00-VS-P\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\13-FindEmployees\obj\Debug\netcoreapp2.0\13-FindEmployees.csproj.CoreCompileInputs.cache
+D:\DV\03-Razni\00-VS-P\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\13-FindEmployees\obj\Debug\netcoreapp2.0\13-FindEmployees.AssemblyInfoInputs.cache
+D:\DV\03-Razni\00-VS-P\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\13-FindEmployees\obj\Debug\netcoreapp2.0\13-FindEmployees.AssemblyInfo.cs
+D:\DV\03-Razni\00-VS-P\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\13-FindEmployees\obj\Debug\netcoreapp2.0\13-FindEmployees.csproj.CopyComplete
+D:\DV\03-Razni\00-VS-P\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\13-FindEmployees\obj\Debug\netcoreapp2.0\13-FindEmployees.dll
+D:\DV\03-Razni\00-VS-P\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\13-FindEmployees\obj\Debug\netcoreapp2.0\13-FindEmployees.pdb

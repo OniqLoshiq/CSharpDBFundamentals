@@ -1,0 +1,14 @@
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\03-EmployeesFullInfo\bin\Debug\netcoreapp2.0\03-EmployeesFullInfo.deps.json
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\03-EmployeesFullInfo\bin\Debug\netcoreapp2.0\03-EmployeesFullInfo.runtimeconfig.json
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\03-EmployeesFullInfo\bin\Debug\netcoreapp2.0\03-EmployeesFullInfo.runtimeconfig.dev.json
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\03-EmployeesFullInfo\bin\Debug\netcoreapp2.0\03-EmployeesFullInfo.dll
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\03-EmployeesFullInfo\bin\Debug\netcoreapp2.0\03-EmployeesFullInfo.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\03-EmployeesFullInfo\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.dll
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\03-EmployeesFullInfo\bin\Debug\netcoreapp2.0\P02_DatabaseFirst.pdb
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\03-EmployeesFullInfo\obj\Debug\netcoreapp2.0\03-EmployeesFullInfo.csprojAssemblyReference.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\03-EmployeesFullInfo\obj\Debug\netcoreapp2.0\03-EmployeesFullInfo.csproj.CoreCompileInputs.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\03-EmployeesFullInfo\obj\Debug\netcoreapp2.0\03-EmployeesFullInfo.AssemblyInfoInputs.cache
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\03-EmployeesFullInfo\obj\Debug\netcoreapp2.0\03-EmployeesFullInfo.AssemblyInfo.cs
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\03-EmployeesFullInfo\obj\Debug\netcoreapp2.0\03-EmployeesFullInfo.csproj.CopyComplete
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\03-EmployeesFullInfo\obj\Debug\netcoreapp2.0\03-EmployeesFullInfo.dll
+C:\Users\Doncho Vasilev\Desktop\zDokka-W\08- 180626-C# DB Advanced\180703-DBA-7 Ex 3 - EF Intro\180703-DBA-Ex3\03-EmployeesFullInfo\obj\Debug\netcoreapp2.0\03-EmployeesFullInfo.pdb
